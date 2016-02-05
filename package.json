@@ -1,0 +1,16 @@
+{
+  "title": "Erase F*cking Youtuber",
+  "name": "efy",
+  "version": "0.0.1",
+  "description": "Erase annoying and mercantile Youtubers",
+  "main": "index.js",
+  "author": "Youness EL GHAZI",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
